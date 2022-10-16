@@ -25,4 +25,6 @@ Visits table has the following fields:
 * group — A/B test group
 * visits — the number of visits on the date specified in the A/B test group specified
 
+#### Python libraries used: Pandas, Matplotlib, Seaborn, Scipy
+
 
